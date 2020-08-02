@@ -1,4 +1,4 @@
-# diabetes-risk
+# Diabetes Risk Prediction
 This dataset contains the sign and symptom data of newly diabetic or would be diabetic patient.
 
 Dataset information: This has been collected using direct questionnaires from the patients of Sylhet Diabetes Hospital in Sylhet, Bangladesh and approved by doctor.
